@@ -1,0 +1,3 @@
+/home/duan/桌面/answer test/build/CMakeFiles/edit_cache.dir
+/home/duan/桌面/answer test/build/CMakeFiles/rebuild_cache.dir
+/home/duan/桌面/answer test/build/CMakeFiles/CodeCraft-2019.dir

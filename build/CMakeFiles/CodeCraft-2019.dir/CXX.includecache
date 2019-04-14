@@ -1,0 +1,148 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/duan/桌面/answer test/CodeCraft-2019/Answer.h
+vector
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/Car.h
+iostream
+-
+queue
+-
+set
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/CodeCraft-2019.cpp
+iostream
+/home/duan/桌面/answer test/CodeCraft-2019/iostream
+vector
+-
+fstream
+-
+set
+-
+algorithm
+-
+time.h
+-
+sys/time.h
+-
+TxtHandler.h
+/home/duan/桌面/answer test/CodeCraft-2019/TxtHandler.h
+Car.h
+/home/duan/桌面/answer test/CodeCraft-2019/Car.h
+Cross.h
+/home/duan/桌面/answer test/CodeCraft-2019/Cross.h
+Road.h
+/home/duan/桌面/answer test/CodeCraft-2019/Road.h
+Answer.h
+/home/duan/桌面/answer test/CodeCraft-2019/Answer.h
+Scheduler.h
+/home/duan/桌面/answer test/CodeCraft-2019/Scheduler.h
+Graph.h
+/home/duan/桌面/answer test/CodeCraft-2019/Graph.h
+
+/home/duan/桌面/answer test/CodeCraft-2019/Cross.h
+ostream
+-
+map
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/Graph.cpp
+Graph.h
+/home/duan/桌面/answer test/CodeCraft-2019/Graph.h
+iostream
+-
+Road.h
+/home/duan/桌面/answer test/CodeCraft-2019/Road.h
+Cross.h
+/home/duan/桌面/answer test/CodeCraft-2019/Cross.h
+
+/home/duan/桌面/answer test/CodeCraft-2019/Graph.h
+vector
+-
+set
+-
+iostream
+-
+set
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/Road.h
+queue
+-
+vector
+-
+iostream
+-
+Car.h
+/home/duan/桌面/answer test/CodeCraft-2019/Car.h
+set
+-
+map
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/Scheduler.cpp
+Scheduler.h
+/home/duan/桌面/answer test/CodeCraft-2019/Scheduler.h
+algorithm
+-
+TxtHandler.h
+/home/duan/桌面/answer test/CodeCraft-2019/TxtHandler.h
+cmath
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/Scheduler.h
+vector
+-
+set
+-
+Road.h
+/home/duan/桌面/answer test/CodeCraft-2019/Road.h
+Car.h
+/home/duan/桌面/answer test/CodeCraft-2019/Car.h
+Cross.h
+/home/duan/桌面/answer test/CodeCraft-2019/Cross.h
+Answer.h
+/home/duan/桌面/answer test/CodeCraft-2019/Answer.h
+Graph.h
+/home/duan/桌面/answer test/CodeCraft-2019/Graph.h
+
+/home/duan/桌面/answer test/CodeCraft-2019/TxtHandler.cpp
+TxtHandler.h
+/home/duan/桌面/answer test/CodeCraft-2019/TxtHandler.h
+fstream
+-
+Car.h
+/home/duan/桌面/answer test/CodeCraft-2019/Car.h
+Road.h
+/home/duan/桌面/answer test/CodeCraft-2019/Road.h
+Cross.h
+/home/duan/桌面/answer test/CodeCraft-2019/Cross.h
+cstdlib
+-
+string.h
+-
+Answer.h
+/home/duan/桌面/answer test/CodeCraft-2019/Answer.h
+queue
+-
+algorithm
+-
+ostream
+-
+
+/home/duan/桌面/answer test/CodeCraft-2019/TxtHandler.h
+vector
+-
+string
+-
+map
+-
+
